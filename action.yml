@@ -1,4 +1,4 @@
-name: 'SSH Remote Commands'
+name: 'SSH Commands'
 description: 'Executing remote ssh commands'
 author: 'Bo-Yi Wu'
 inputs:
